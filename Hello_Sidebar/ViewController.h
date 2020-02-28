@@ -35,7 +35,7 @@
 // If we do that we can at least select blue bars in the Outline View and see the Hide/Show items for the parents
 // If we connect delegate with View instead we get the triangles
 // No item text however. Why???
-// Because we have to set the Main Cell class  to Custom Class: SidebarTableCellView
+// Because we have to set the Main Cell class to Custom Class: SidebarTableCellView
 // Also have to set Identifier and Label to MainCell
 // We got no headers because they were in a Cell whereas they were on their own in the sample.
 // Also had to give them the correct Identifier: HeaderTextField and Label: Header Label
