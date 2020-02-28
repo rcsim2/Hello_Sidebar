@@ -29,7 +29,7 @@
 // NOTE: In the SidebarDemo sample select the Outline View in Storyboard, Show Connections Inspector,
 // Referencing Outlets should be: _sidebarOutlineView -> Delegate
 // Instead we have: _sidebarOutlineView -> View Controller
-// So we need a Delegate. Of we get rid of that connection in the sample things also do net get drawn.
+// So we need a Delegate. If we get rid of that connection in the sample things also do net get drawn.
 // YYyyyesss!!! In The Connections Inspectors we have to connect dataSource, delegate and
 // Referencing Outlet with the View Controller (last one gives menu and then connect with _sidebarOutlineView)
 // If we do that we can at least select blue bars in the Outline View and see the Hide/Show items for the parents
