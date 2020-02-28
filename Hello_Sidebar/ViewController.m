@@ -130,7 +130,7 @@
 - (BOOL)outlineView:(NSOutlineView *)outlineView shouldShowOutlineCellForItem:(id)item {
     // As an example, hide the "outline disclosure button" for FAVORITES. This hides the "Show/Hide" button and disables the tracking area for that row.
     if ([item isEqualToString:@"Favorites"]) {
-        return NO;
+        return YES;//NO;
     } else {
         return YES;
     }

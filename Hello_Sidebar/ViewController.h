@@ -41,8 +41,8 @@
 // Also had to give them the correct Identifier: HeaderTextField and Label: Header Label
 // For button we had to do Referencing Outlets: button -> Main Cell
 // Now all OKOK.
-// Main prob was making the right Connections in Storyboard and using the correct labels
-// and IDs. So .nib => Storyboard hassle.
+// Main prob was making the right Connections in Storyboard and using the correct labels and IDs.
+// So .nib => Storyboard hassle.
 
 
 
